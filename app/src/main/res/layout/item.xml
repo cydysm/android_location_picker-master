@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:orientation = "horizontal"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent">
+    <TextView
+        android:id = "@+id/txt_lat"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_marginTop = "20dp"
+        android:layout_marginLeft = "10dp"
+        android:text = "lat"
+        android:textSize = "20sp"
+        android:textColor = "#000000" />
+
+    <TextView
+        android:id = "@+id/txt_lng"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_marginTop = "20dp"
+        android:layout_marginLeft = "10dp"
+        android:text = "lng"
+        android:textSize = "20sp"
+        android:textColor = "#000000"/>
+
+    <TextView
+        android:id = "@+id/txt_remark"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_marginTop = "20dp"
+        android:layout_marginLeft = "10dp"
+        android:text="remark"
+        android:textSize="20sp"
+        android:textColor = "#000000"/>
+
+
+</LinearLayout>

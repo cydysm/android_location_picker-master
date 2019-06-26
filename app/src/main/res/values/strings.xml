@@ -1,0 +1,15 @@
+<resources>
+    <string name = "app_name">Location Picker</string>
+    <string name = "action_settings">Settings</string>
+    <string name = "map_api_key">2QsKiRCesoGnqVpzLTvcjL8jbOM94QOy</string>
+    <string name = "btn_get">&#160;获取坐标</string>
+    <string name = "btn_upload">&#160;坐标上传</string>
+
+    <string name = "remark">&#160;备注</string>
+    <string name = "TV_longitude">&#160;Longitude:DDD.dddddddd</string>
+    <string name = "TV_latitude">&#160;&#160;&#160;&#160;Latitude:DDD.dddddddd</string>
+    <string name = "Text_latitude">&#160;纬度</string>
+    <string name = "Text_longitude">&#160;经度</string>
+    <!--<string name = "Text_address">&#160;地址&#160;Address</string>-->
+
+</resources>
